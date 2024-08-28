@@ -7,7 +7,7 @@
   - [Nina Simone Tribute Page](https://github.com/Corihue/Nina-Simone-tribute)
   - [Personal Website Portfolio](https://github.com/Corihue/Personal-portfolio-webpage)
 - <b>JavaScript Algorithms and Data Structures</b>
-  - [Calorie Conter](https://github.com/Corihue/Calorie-counter) <b><i>(Potentially NSFW)</b></i>
+  - [Calorie Conter](https://github.com/Corihue/Calorie-counter) <b><i></b></i>
 - <b>Graphic Design Projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
