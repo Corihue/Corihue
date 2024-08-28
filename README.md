@@ -5,7 +5,7 @@
 - <b>Responsive Web Projects</b>
   - [Herbal Review Survey Form](https://github.com/Corihue/Herbal-Survey-FreeCodeCamp)
   - [Nina Simone Tribute Page](https://github.com/Corihue/Nina-Simone-tribute)
-  - [Nina Simone Tribute Page](https://github.com/Corihue/Herbal-Survey-FreeCodeCamp)
+  - [Personal Website Portfolio](https://github.com/Corihue/Herbal-Survey-FreeCodeCamp)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Graphic Design Projects</b>
