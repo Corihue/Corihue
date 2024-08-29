@@ -6,9 +6,9 @@
   - [Herbal Review Survey Form](https://github.com/Corihue/Herbal-Survey-FreeCodeCamp)
   - [Nina Simone Tribute Page](https://github.com/Corihue/Nina-Simone-tribute)
   - [Personal Website Portfolio](https://github.com/Corihue/Personal-portfolio-webpage)
+<br></br>
 
 
-<div></div>
  <b>JavaScript Algorithms and Data Structures</b>
   - [Calorie Counter](https://github.com/Corihue/Calorie-counter)
   - [Image Search Engine](https://github.com/Corihue/Image-search-engine)(Unsplash API)
