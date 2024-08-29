@@ -10,7 +10,8 @@
   - [Calorie Counter](https://github.com/Corihue/Calorie-counter)
   - [Image Search Engine](https://github.com/Corihue/Image-search-engine)(Unsplash API)
 - <b>Graphic Design Projects</b>
-  - 
+  - [Portfolio](https://www.dropbox.com/s/ph8qu51lm1jl4m9/Portfolio.pdf?dl=0)
+  - [Explainer Video](due_diligence_1005 copy.mov)
 
 
 <h2> 🤳 Connect with me:</h2>
