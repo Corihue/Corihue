@@ -7,21 +7,16 @@
   - [Nina Simone Tribute Page](https://github.com/Corihue/Nina-Simone-tribute)
   - [Personal Website Portfolio](https://github.com/Corihue/Personal-portfolio-webpage)
 <br></br>
-<br></br>
-
 
  <b>JavaScript Algorithms and Data Structures</b>
   - [Calorie Counter](https://github.com/Corihue/Calorie-counter)
   - [Image Search Engine](https://github.com/Corihue/Image-search-engine)(Unsplash API)
 <br></br>
-<br></br>
 
-    
   <b>Graphic Design Projects</b>
   - [Portfolio](https://www.dropbox.com/s/ph8qu51lm1jl4m9/Portfolio.pdf?dl=0)
   - [Explainer Video](https://drive.google.com/file/d/1EU5EoMl_E-kbVt6dD5hUlYfLBhrLvK-K/preview)
 
-<br></br>
 <br></br>
 
 <h2> 🤳 Connect with me:</h2>
@@ -29,8 +24,8 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[instagram]: https://www.instagram.com/jus.coripaints/
+[linkedin]: https://linkedin.com/in/corilyn/
 
 <!--
 
