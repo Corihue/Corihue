@@ -7,9 +7,10 @@
   - [Nina Simone Tribute Page](https://github.com/Corihue/Nina-Simone-tribute)
   - [Personal Website Portfolio](https://github.com/Corihue/Personal-portfolio-webpage)
 - <b>JavaScript Algorithms and Data Structures</b>
-  - [Calorie Counter](https://github.com/Corihue/Calorie-counter) <b><i></b></i>
+  - [Calorie Counter](https://github.com/Corihue/Calorie-counter)
+  - [Image Search Engine](Unsplash API)(https://github.com/Corihue/Image-search-engine)
 - <b>Graphic Design Projects</b>
-  - [
+  - 
 
 
 <h2> 🤳 Connect with me:</h2>
