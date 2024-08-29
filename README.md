@@ -8,7 +8,7 @@
   - [Personal Website Portfolio](https://github.com/Corihue/Personal-portfolio-webpage)
 - <b>JavaScript Algorithms and Data Structures</b>
   - [Calorie Counter](https://github.com/Corihue/Calorie-counter)
-  - [Image Search Engine](Unsplash API)(https://github.com/Corihue/Image-search-engine)
+  - [Image Search Engine](https://github.com/Corihue/Image-search-engine)(Unsplash API)
 - <b>Graphic Design Projects</b>
   - 
 
