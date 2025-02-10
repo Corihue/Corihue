@@ -13,10 +13,6 @@
   - [Image Search Engine](https://github.com/Corihue/Image-search-engine)(Unsplash API)
 <br></br>
 
-  <b>Graphic Design Projects</b>
-  - [Portfolio](https://www.dropbox.com/s/ph8qu51lm1jl4m9/Portfolio.pdf?dl=0)
-  - [Explainer Video](https://drive.google.com/file/d/1EU5EoMl_E-kbVt6dD5hUlYfLBhrLvK-K/preview)
-
 <br></br>
 
 <h2> 🤳 Connect with me:</h2>
